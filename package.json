@@ -5,6 +5,12 @@
     "build": "next build",
     "start": "next start"
   },
+  "engines": {
+    "node": ">=14.0.0",
+    "pnpm": ">=5.0.0",
+    "yarn": "please-use-pnpm",
+    "npm": "please-use-pnpm"
+  },
   "dependencies": {
     "next": "latest",
     "react": "18.1.0",
